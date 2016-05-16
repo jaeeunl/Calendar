@@ -6,4 +6,4 @@ Calendar app made with pure JavaScript only
 -  By default, the current day is shown in the left pane
 -  On click, the left pane updates with the clicked date
 
-Demo: http://paraboladesign.com/calendar
+Demo: http://ja-ee-un.com/calendar
